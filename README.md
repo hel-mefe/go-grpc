@@ -3,10 +3,10 @@ This repository contains a collection of small applications written in Go that d
 ![Cool gRPC Gopher](https://github.com/hel-mefe/go-grpc/blob/main/gopher/gRPC-gopher.png?raw=true)
 
 ## Contents:
-<b>Unary RPC Example:</b> Learn how to implement and call unary RPC (single request, single response) using Go and gRPC. 
-<b>Server Streaming Example:</b> Explore server streaming RPCs where the server sends a stream of responses to a single client request. 
-<b>Client Streaming Example:</b> Dive into client streaming RPCs where the client sends a stream of requests to the server to receive a single response. 
-<b>Bidirectional Streaming Example:</b> Discover bidirectional streaming RPCs, enabling both the client and server to send a stream of messages concurrently.
+<b>Unary RPC Example:</b> Learn how to implement and call unary RPC (single request, single response) using Go and gRPC.<br />
+<b>Server Streaming Example:</b> Explore server streaming RPCs where the server sends a stream of responses to a single client request. <br /> 
+<b>Client Streaming Example:</b> Dive into client streaming RPCs where the client sends a stream of requests to the server to receive a single response. <br /> 
+<b>Bidirectional Streaming Example:</b> Discover bidirectional streaming RPCs, enabling both the client and server to send a stream of messages concurrently. <br />
 
 ## Questions about gRPC
 ### Does gRPC perform better than REST and GraphQL?
