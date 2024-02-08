@@ -1,6 +1,6 @@
 This repository contains a collection of small applications written in Go that demonstrate various aspects of using gRPC (Google Remote Procedure Call) framework. Whether you're new to gRPC or looking to sharpen your skills, this repository aims to provide practical examples to help you learn and practice.
 
-![Cool gRPC Gopher](https://github.com/hel-mefe/go-grpc/gopher/gRPC-gopher.png)
+![Cool gRPC Gopher]([https://github.com/hel-mefe/go-grpc/gopher/gRPC-gopher.png](https://github.com/hel-mefe/go-grpc/blob/main/gopher/gRPC-gopher.png))
 
 ## Contents:
 <b>Unary RPC Example:</b> Learn how to implement and call unary RPC (single request, single response) using Go and gRPC. 
