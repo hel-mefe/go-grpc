@@ -1,0 +1,8 @@
+# Using official mongodb instance
+FROM mongo:latest
+
+# Bind 27017 in your house with this container's port
+EXPOSE 27017
+
+# Start mongodb service
+CMD ["mongod", "--bind_ip", "0.0.0.0"]
